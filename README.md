@@ -21,6 +21,7 @@ Hi
 ### Product Owner
 at [Jobinja](https://jobinja.ir/)
 ##### Tehran Province, Iran
+Jul 2019 – Mar 2020 (9 mos)
 
 
 ### Software Engineer
