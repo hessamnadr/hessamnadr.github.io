@@ -80,7 +80,7 @@ at [Fanavaran Hafiz Samaneh (Ansar Bank)](http://www.hafiz-co.ir/IndexNewTheme.a
 May 2016 – Apr 2017 (1 yr)
 
 
-### Senior Frontend Developer
+### Product Designer
 at [Evand](http://evand.com)
 ##### Tehran Province, Iran
 Feb 2016 – May 2016 (4 mos)
