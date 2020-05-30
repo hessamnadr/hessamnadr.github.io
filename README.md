@@ -8,6 +8,7 @@ Hi
 [Github](https://github.com/hessamnadr)
 
 ## About
+
     My Specialty in Software Engineering started in 2009.
     Field of my Education in high school was Software; That's why I entered the Programming Field. 
     At First, Creativity made me work as a Front-End Developer & Web Designer in my friends zone.
@@ -16,7 +17,14 @@ Hi
     Thanks for visiting ME.
 
 
+
 ## Experiences
+
+### Founder - (Software Engineer - Product Designer)
+at [Pholani]()
+##### Tehran, Iran
+Mar 2020 – Present
+
 
 ### Product Owner
 at [Jobinja](https://jobinja.ir/)
@@ -30,13 +38,19 @@ at [Jobinja](https://jobinja.ir/)
 Mar 2019 – Mar 2020 (1 yr 1 mo)
 
 
+### Product Designer
+at [aimify]()
+##### Berlin Area, Germany
+Jul 2019 – Jan 2020 (7 mos)
+
+
 ### Software Engineer
 at [Idehhub](https://idehhub.com/)
 ##### Tehran Province, Iran
 Sep 2018 – Jan 2019 (5 mos)
 
 
-### Senior Frontend Developer (part-time)
+### Senior Frontend Developer
 at [Sibapp](https://Sibapp.ir/)
 ##### Tehran Province, Iran
 May 2018 – Sep 2018 (5 mos)
@@ -49,12 +63,18 @@ Dec 2017 – Mar 2018 (4 mos)
 
 
 ### Senior Frontend Developer
+at [RAVI]()
+##### Tehran, Iran
+Dec 2017 – Mar 2018 (4 mos)
+
+
+### Senior Frontend Developer
 at [Snapptrip](http://snapptrip.com)
 ##### Tehran Province, Iran
 May 2017 – Nov 2017 (7 mos)
 
 
-### Senior Frontend Developer (part-time)
+### Senior Frontend Developer
 at [Fanavaran Hafiz Samaneh (Ansar Bank)](http://www.hafiz-co.ir/IndexNewTheme.aspx)
 ##### Tehran Province, Iran
 May 2016 – Apr 2017 (1 yr)
