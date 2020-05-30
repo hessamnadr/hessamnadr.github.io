@@ -20,7 +20,7 @@ Hi
 
 ## Experiences
 
-### Founder - (Software Engineer - Product Designer)
+### Founder - (Self-employed)
 at [Pholani]()
 ##### Tehran, Iran
 Mar 2020 – Present
@@ -38,7 +38,7 @@ at [Jobinja](https://jobinja.ir/)
 Mar 2019 – Mar 2020 (1 yr 1 mo)
 
 
-### Product Designer
+### Product Designer (Freelance)
 at [aimify]()
 ##### Berlin Area, Germany
 Jul 2019 – Jan 2020 (7 mos)
@@ -50,7 +50,7 @@ at [Idehhub](https://idehhub.com/)
 Sep 2018 – Jan 2019 (5 mos)
 
 
-### Senior Frontend Developer
+### Senior Frontend Developer (part-time)
 at [Sibapp](https://Sibapp.ir/)
 ##### Tehran Province, Iran
 May 2018 – Sep 2018 (5 mos)
@@ -62,7 +62,7 @@ at [Datis Pars Java Solutions Co](https://www.linkedin.com/company/datis-pars-ja
 Dec 2017 – Mar 2018 (4 mos)
 
 
-### Senior Frontend Developer
+### Senior Frontend Developer (Freelance)
 at [RAVI]()
 ##### Tehran, Iran
 Dec 2017 – Mar 2018 (4 mos)
@@ -74,14 +74,20 @@ at [Snapptrip](http://snapptrip.com)
 May 2017 – Nov 2017 (7 mos)
 
 
-### Senior Frontend Developer
+### Senior Frontend Developer (part-time)
 at [Fanavaran Hafiz Samaneh (Ansar Bank)](http://www.hafiz-co.ir/IndexNewTheme.aspx)
 ##### Tehran Province, Iran
 May 2016 – Apr 2017 (1 yr)
 
 
-### Product Designer
+### Product Designer (part-time)
 at [Evand](http://evand.com)
+##### Tehran Province, Iran
+Feb 2016 – May 2016 (4 mos)
+
+
+### Senior Frontend Developer
+at [Mabna](https://mabna.com/)
 ##### Tehran Province, Iran
 Feb 2016 – May 2016 (4 mos)
 
@@ -116,7 +122,7 @@ at [Spiral Design Center](https://spiraldesign.org)
 Jun 2014 – Oct 2014 (5 mos)
 
 
-### Web Designer
+### Web Developer
 at [Pardazesh Hooshmand Alborz](https://spiraldesign.org)
 ##### Alborz Province, Iran
 May 2013 – Apr 2014 (1 yr)
