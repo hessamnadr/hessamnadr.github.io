@@ -1,8 +1,8 @@
 Hi
 
 # I’m Hessam Nadr,
-# a Software Engineer &amp;
-# Product Manager.
+## Founder and Executive Officer at Melkba
+### My experience in title is: [IT Engineer, Product Designer, Software Developer, Manager] 
 
 [Linkedin](https://ir.linkedin.com/in/hessamnadr)
 [Site](https://hessamnadr.com)
@@ -20,7 +20,17 @@ Hi
 
 ## Experiences
 
-### Software Engineer (Self-employed)
+### 20. Founder & Executive Officer
+at [Melkba](https://melkba.com/)
+##### Tehran, Iran
+Mar 2020 – Present
+#### Skills: 
+##### Business Development · Productivity Improvement · Information Architecture · Algorithms · Data Analysis · Programming · Content Strategy · Product Management · Prototyping · Strategic Planning · Product Development · Mobility Solutions · Cloud Applications · Product Design · Communication · Management · Negotiation · Active Listening · Presentation Skills · Cross-functional Team Leadership · Web Design · Web Development · User Experience · User Interface Design · Front-end · Interaction Design · Usability · Wireframing · Technical Support · JavaScript · CSS · Adobe Illustrator · MongoDB · Node.js · RESTful WebServices · Ubuntu · Apache · Design Thinking · Conflict Resolution · Decision-Making · UX Research · Business Understanding · Emotional Intelligence · WordPress
+#### Responsibilities:
+as a Founder I am Responsible of everything in my company.
+
+
+### 19. Software Engineer (Self-employed)
 at [Pholani]()
 ##### Tehran, Iran
 Mar 2020 – Present
