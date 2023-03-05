@@ -805,24 +805,26 @@
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script>
     (function ($) {
-        var d = ''
-        var d2 = ''
-        var fill = ''
-        var fill2 = ''
-        window.setInterval(function () {
+        var paths = $('path');
+        function effect(r,r2) {
+            var color = $(paths[r]).attr('fill');
+            var color2 = $(paths[r2]).attr('fill');
+            $(paths[r]).attr('fill', 'rgb(245, 237, 68)');
+            $(paths[r2]).attr('fill', 'rgb(245, 237, 68)');
             setTimeout(function () {
-                $('path[d="' + d + '"]').attr('fill', fill);
-                var r = Math.ceil(Math.random() * ($('path').length) + 1);
-                fill = $($('path')[r]).attr('fill');
-                d = $($('path')[r]).attr('d');
-                $('path[d="' + d + '"]').attr('fill', 'rgb(245, 237, 68)');
-
-                $('path[d="' + d2 + '"]').attr('fill', fill2);
-                var r2 = Math.ceil(Math.random() * ($('path').length) + 1);
-                fill2 = $($('path')[r2]).attr('fill');
-                d2 = $($('path')[r2]).attr('d');
-                $('path[d="' + d2 + '"]').attr('fill', 'rgb(245, 237, 68)');
-            }, 100);
+                $(paths[r]).attr('fill', color);
+                $(paths[r2]).attr('fill', color2);
+            }, 400);
+        }
+        window.setInterval(function () {
+            var r = Math.ceil(Math.random() * (paths.length) + 1);
+            var r2 = Math.ceil(Math.random() * (paths.length) + 1);
+            if(r!==r2){
+                effect(r,r2);
+            }else{
+                r2 = r+1;
+                effect(r,r2);
+            }
         }, 500);
     })(window.jQuery)
 </script>
