@@ -798,14 +798,17 @@
             setTimeout(function () {
                 $('path[d="' + d + '"]').attr('fill', fill);
                 var r = Math.ceil(Math.random() * ($('path').length) + 1);
-                var r2 = Math.ceil(Math.random() * ($('path').length) + 1);
                 fill = $($('path')[r]).attr('fill');
-                fill2 = $($('path')[r2]).attr('fill');
                 d = $($('path')[r]).attr('d');
-                d2 = $($('path')[r2]).attr('d');
                 $('path[d="' + d + '"]').attr('fill', 'rgb(245, 237, 68)');
-                $('path[d="' + d2 + '"]').attr('fill', 'rgb(245, 237, 68)');
             }, 30);
+            setTimeout(function () {
+                $('path[d="' + d2 + '"]').attr('fill', fill2);
+                var r2 = Math.ceil(Math.random() * ($('path').length) + 1);
+                fill2 = $($('path')[r2]).attr('fill');
+                d2 = $($('path')[r2]).attr('d');
+                $('path[d="' + d2 + '"]').attr('fill', 'rgb(245, 237, 68)');
+            }, 100);
         }, 500);
     })(window.jQuery)
 </script>
